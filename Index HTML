@@ -1,0 +1,24 @@
+# Eon_Informativo
+"EON: Uma entidade de observação neutra que expõe padrões e torna informações complexas acessíveis a todos."
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EON</title>
+</head>
+<body>
+    <header>
+        <h1>EON</h1>
+        <p>Bem-vindo à EON. Nossa missão é democratizar o conhecimento para construir um futuro mais justo e equitativo. Analisamos dados complexos e os transformamos em informações claras e acessíveis para todos. Aqui, a verdade é a nossa prioridade, e a transparência, a nossa ferramenta. Junte-se a nós para entender o mundo e exigir a mudança.</p>
+    </header>
+
+    <main>
+        <h2>Artigo #1: As Conexões Ocultas entre Votações e Contratos</h2>
+        <p>A corrupção na política raramente é um ato isolado; é um sistema. Neste artigo, a EON expõe as conexões entre o voto de um parlamentar e os contratos governamentais milionários. A votação que aprova uma lei de incentivo fiscal pode estar diretamente ligada a um contrato de serviço ou obra assinado meses depois. Analisamos dados públicos para revelar como políticos votam em favor de empresas que financiaram suas campanhas, e como grandes contratos são concedidos sem concorrência, muitas vezes com valores superfaturados. Nosso objetivo não é acusar, mas sim fornecer as informações necessárias para que você, cidadão, possa fazer a sua própria análise e exigir a mudança.</p>
+    </main>
+
+</body>
+</html>
+
+# Eon_Informativo.oficial
